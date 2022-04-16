@@ -5,25 +5,25 @@ How to use:
 # Downloading and using the python file locally
 
 
-Step1: Clone the repository with the link found in the 'Code' Section or download it as a zip file
+**Step1**: Clone the repository with the link found in the 'Code' Section or download it as a zip file
 
 
 
-Step2: run `pip install -r requirements.txt ` to install all the required packages
+**Step2**: run `pip install -r requirements.txt ` to install all the required packages
 
 
 
-Step3: in the `cnn_for_covid_xray_public.py` file , there's a section to mention the full path to the dataset, update it to the path of the downloaded dataset.
-
-
-
-
-Step4: Head over to a terminal and run `streamlit run streamlit.py` where 'streamlit.py' is the name of the Streamlit user interface python file
+**Step3**: in the `cnn_for_covid_xray_public.py` file , there's a section to mention the full path to the dataset, update it to the path of the downloaded dataset.
 
 
 
 
-Step4: Upload an x-ray image using the upload button that you can see on screen
+**Step4**: Head over to a terminal and run `streamlit run streamlit.py` where 'streamlit.py' is the name of the Streamlit user interface python file
+
+
+
+
+**Step5**: Upload an x-ray image using the 'browse files' button that you can see on screen
 
 
 
